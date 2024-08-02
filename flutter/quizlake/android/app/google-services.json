@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931452398942",
+    "project_id": "quizlake-28ab1",
+    "storage_bucket": "quizlake-28ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931452398942:android:a71d145eb1ab4bb306f3cf",
+        "android_client_info": {
+          "package_name": "com.example.quizlake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931452398942-fbh34njkqvjchg1odf59q9hm5q2f10o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizlake",
+            "certificate_hash": "99f6cd44387a63b79834f6b99b812f8df596dd62"
+          }
+        },
+        {
+          "client_id": "931452398942-30mte61l3duvlmvrb7tailr834392k3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCsckdD7lUSORZ3cxuGGNzLJv_lkRwV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931452398942-30mte61l3duvlmvrb7tailr834392k3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
